@@ -19,5 +19,4 @@ Hi! My name is Aleksandar Grujić 👋
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grruja&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grruja)](https://github.com/grruja/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grruja&layout=compact&theme=transparent)
