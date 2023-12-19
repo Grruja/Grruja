@@ -19,4 +19,4 @@ Hi! My name is Aleksandar Grujić 👋
 
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grruja)](https://github.com/grruja/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grruja&layout=compact)
