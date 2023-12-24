@@ -18,5 +18,3 @@ Hi! My name is Aleksandar Grujić 👋
 </div>
 
 #
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grruja&layout=compact&theme=transparent)
