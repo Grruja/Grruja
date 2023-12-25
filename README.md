@@ -1,7 +1,7 @@
 Hi! My name is Aleksandar Grujić 👋
 ========================================================================================================================================
 
-📍 I am a Backend Developer based in Smederevo, Serbia.
+📍 I am a Web Developer based in Smederevo, Serbia.
 <br/>
 
 ### Skills
