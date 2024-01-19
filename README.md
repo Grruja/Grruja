@@ -16,3 +16,11 @@ Hi! My name is Aleksandar Grujić 👋
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+###
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grruja)](https://github.com/grruja/github-readme-stats)
+
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grruja&layout=compact)
