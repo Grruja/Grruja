@@ -2,6 +2,15 @@
 
 I'm Deguzman, I just build stuff that I need or have a good idea.
 
+<div id="badges">
+  <a href="https://discord.com/users/512924590998028300">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/grujic-aleksandar/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 ----------
 
 ### 🛠️ Things I Built:
@@ -14,14 +23,3 @@ I'm Deguzman, I just build stuff that I need or have a good idea.
 
 3. 🌐 Client Websites & Apps
     - Building stuff that I like/need ain't paying bills (yet), so I made a bunch of marketing websites for clients and even some apps.
-
-### Socials
-
-<div id="badges">
-  <a href="https://discord.com/users/512924590998028300">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/grujic-aleksandar/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
