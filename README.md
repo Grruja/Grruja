@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Deguzman, I just build stuff that I need or have a good idea.
+I'm Gruja, I just build stuff that I need or have a good idea.
 
 <div id="badges">
   <a href="https://discord.com/users/512924590998028300">
