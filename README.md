@@ -22,4 +22,4 @@ I'm Deguzman, I just build stuff that I need or have a good idea.
     - My old phone notes lost categories and were saved as HTML + JSON, so I made a CLI tool to convert them to markdown and categorize them.
 
 3. 🌐 Client Websites & Apps
-    - Building stuff that I like/need ain't paying bills (yet), so I made a bunch of marketing websites for clients and even some apps.
+    - Building stuff that I like/need ain't making bread, so I made a bunch of marketing websites for clients and even some apps.
